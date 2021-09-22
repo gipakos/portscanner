@@ -13,12 +13,13 @@ How it works:
 Download portscan.py and run it using python3 inside your favourite unix terminal.
 
 Example:
-
-<code>python3 portscan.py localhost</code>
-or
-<code>python3 portscan.py 0.0.0.0</code>
 </pre>
 
+<code>python3 portscan.py localhost</code>
+
+<pre>or</pre>
+
+<code>python3 portscan.py 0.0.0.0</code>
 <pre>
 Work in progress...
 
